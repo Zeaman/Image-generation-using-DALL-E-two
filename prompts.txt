@@ -1,0 +1,18 @@
+1. particularly: Generate a realistic image that illustrates the concept of "particularly". Show a group of objects with one item highlighted or standing out, 
+indicating specificity and emphasis. The generated images should be sized into 1024x1024 pixels and saved in the format: misc_adverbs_particularly.jpg
+
+2. Create an image that visually represents the concept of "goodness". The image should include elements that symbolize virtue and kindness. 
+Use symbols like a glowing heart, a person helping another, or a shining sun. The overall mood should be warm, kind, and uplifting.
+The image size should be 1024x1024 and make sure the image should be downlodable as a file format of abstract_goodness.jpg
+
+3. Create an image size of 1024x1064 that visually represents the concept of "Legacy". Show a grandparent holding the hand of a grandchild, with a background of family photos, 
+in a warm, homely setting.
+Finally download the image as the file format of abstract_legacy.jpg 
+
+4. Generate an image that visually represents the word "envious." The image should capture the essence of the adjective, depicting a scene, object, 
+or character that embodies this quality. Use vibrant and detailed elements to convey the meaning clearly and effectively. For example, illustrate a person looking with longing eyes at 
+another person who has something they desire, creating a sense of envy. The generated image should be an image size of 1024x1064 downloaded as a file name of adjectives_200_most_common_envious.jpg
+
+5. Generate an image that visually represents the word "encouraging". The image should capture the essence of the adjective, depicting a scene, object, or character that embodies this quality. 
+Use vibrant and detailed elements to convey the meaning clearly and effectively. For example, show a mentor giving a thumbs-up to a student, with a supportive and uplifting environment. 
+The generated image should be an image size of 1024x1064 downloaded as a file name of adjectives_200_most_common_encouraging.jpg
